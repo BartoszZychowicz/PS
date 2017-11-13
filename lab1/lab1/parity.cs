@@ -18,7 +18,7 @@ namespace lab1
             foreach(int element in dane)
             {
                 Console.Write("\n");
-                for(int i=15;i>=0;i--)
+                for(int i=7;i>=0;i--)
                 {
                     temp = (element>>i)&1;
                     Console.Write(temp);
