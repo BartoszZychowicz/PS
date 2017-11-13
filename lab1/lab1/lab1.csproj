@@ -41,8 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="crc.cs" />
-    <Compile Include="helloWorld.cs" />
     <Compile Include="parity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

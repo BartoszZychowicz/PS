@@ -2,24 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bac310e-93e3-4b49-843f-c8ed4d2512f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/helloWorld/bin/Debug/helloWorld.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/helloWorld/bin/Debug/helloWorld.pdb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/helloWorld/obj/Debug/helloWorld.csprojResolveAssemblyReference.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/helloWorld/obj/Debug/helloWorld.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/helloWorld/obj/Debug/helloWorld.pdb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/.idea/.idea.helloWorld/.idea/contentModel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/.idea/.idea.helloWorld/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/.idea/.idea.helloWorld/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/.idea/.idea.helloWorld/riderModule.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/helloWorld.sln" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/helloWorld/Program.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/helloWorld/Properties/AssemblyInfo.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/helloWorld/helloWorld.csproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/helloWorld/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/helloWorld/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/helloWorld/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/helloWorld/obj/Debug/helloWorld.csproj.FileListAbsolute.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParityControl/.idea/.idea.ParityControl/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/.idea/.idea.helloWorld/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/crc.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/helloWorld.cs" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/bin/Debug/lab1.exe" afterPath="$PROJECT_DIR$/lab1/bin/Debug/lab1.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/bin/Debug/lab1.pdb" afterPath="$PROJECT_DIR$/lab1/bin/Debug/lab1.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/obj/Debug/lab1.exe" afterPath="$PROJECT_DIR$/lab1/obj/Debug/lab1.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/obj/Debug/lab1.pdb" afterPath="$PROJECT_DIR$/lab1/obj/Debug/lab1.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/lab1.csproj" afterPath="$PROJECT_DIR$/lab1/lab1.csproj" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,12 +22,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="parity.cs" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="parity.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab1/parity.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="120">
+              <caret line="8" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
               <folding>
                 <marker date="1510597331861" expanded="true" signature="29:856" ph="{...}" />
                 <marker date="1510597331861" expanded="true" signature="58:854" ph="{...}" />
@@ -48,42 +40,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="helloWorld.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab1/helloWorld.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
-              <folding>
-                <marker date="1510598043581" expanded="true" signature="29:231" ph="{...}" />
-                <marker date="1510598043581" expanded="true" signature="58:229" ph="{...}" />
-                <marker date="1510598043581" expanded="true" signature="111:223" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crc.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab1/crc.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-              <folding>
-                <marker date="1510597634485" expanded="true" signature="14:60" ph="{...}" />
-                <marker date="1510597634485" expanded="true" signature="37:58" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/lab1/crc.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ParityControl/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab1/parity.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/lab1/helloWorld.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -91,6 +55,7 @@
         <option value="$PROJECT_DIR$/lab1/Program.cs" />
         <option value="$PROJECT_DIR$/lab1/crc.cs" />
         <option value="$PROJECT_DIR$/lab1/helloWorld.cs" />
+        <option value="$PROJECT_DIR$/ParityControl/Program.cs" />
       </list>
     </option>
   </component>
@@ -122,7 +87,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <PATH>
@@ -143,6 +107,7 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,6 +158,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -241,7 +212,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510592200001</updated>
-      <workItem from="1510592201139" duration="6010000" />
+      <workItem from="1510592201139" duration="6817000" />
+      <workItem from="1510599138452" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="pierwsza wersja z kontrola parzystosci">
       <created>1510597052141</created>
@@ -268,7 +240,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6010000" />
+    <option name="totallyTimeSpent" value="6825000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -281,27 +253,28 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="337" y="21" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35016835" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20375723" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884398" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -323,21 +296,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lab1/crc.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding>
-            <marker date="1510597634485" expanded="true" signature="14:60" ph="{...}" />
-            <marker date="1510597634485" expanded="true" signature="37:58" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab1/parity.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1510597331861" expanded="true" signature="29:856" ph="{...}" />
             <marker date="1510597331861" expanded="true" signature="58:854" ph="{...}" />
@@ -349,14 +311,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab1/helloWorld.cs">
+    <entry file="file://$PROJECT_DIR$/lab1/helloWorld.cs" />
+    <entry file="file://$PROJECT_DIR$/lab1/crc.cs" />
+    <entry file="file://$PROJECT_DIR$/ParityControl/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="105">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab1/parity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
           <folding>
-            <marker date="1510598043581" expanded="true" signature="29:231" ph="{...}" />
-            <marker date="1510598043581" expanded="true" signature="58:229" ph="{...}" />
-            <marker date="1510598043581" expanded="true" signature="111:223" ph="{...}" />
+            <marker date="1510597331861" expanded="true" signature="29:856" ph="{...}" />
+            <marker date="1510597331861" expanded="true" signature="58:854" ph="{...}" />
+            <marker date="1510597331861" expanded="true" signature="111:848" ph="{...}" />
+            <marker date="1510597331861" expanded="true" signature="378:453" ph="{...}" />
+            <marker date="1510597331861" expanded="true" signature="494:757" ph="{...}" />
+            <marker date="1510597331861" expanded="true" signature="583:743" ph="{...}" />
           </folding>
         </state>
       </provider>
