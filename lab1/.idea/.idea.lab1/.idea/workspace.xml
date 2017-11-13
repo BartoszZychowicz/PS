@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bac310e-93e3-4b49-843f-c8ed4d2512f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParityControl/.idea/.idea.ParityControl/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloWorld/.idea/.idea.helloWorld/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/crc.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/helloWorld.cs" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/bin/Debug/lab1.exe" afterPath="$PROJECT_DIR$/lab1/bin/Debug/lab1.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/bin/Debug/lab1.pdb" afterPath="$PROJECT_DIR$/lab1/bin/Debug/lab1.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/obj/Debug/lab1.exe" afterPath="$PROJECT_DIR$/lab1/obj/Debug/lab1.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/obj/Debug/lab1.pdb" afterPath="$PROJECT_DIR$/lab1/obj/Debug/lab1.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/lab1.csproj" afterPath="$PROJECT_DIR$/lab1/lab1.csproj" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -112,6 +103,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -213,7 +205,7 @@
       <option name="presentableId" value="Default" />
       <updated>1510592200001</updated>
       <workItem from="1510592201139" duration="6817000" />
-      <workItem from="1510599138452" duration="8000" />
+      <workItem from="1510599138452" duration="185000" />
     </task>
     <task id="LOCAL-00001" summary="pierwsza wersja z kontrola parzystosci">
       <created>1510597052141</created>
@@ -236,11 +228,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510598082066</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="zmiana nazwy">
+      <created>1510599157078</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1510599157078</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6825000" />
+    <option name="totallyTimeSpent" value="7002000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -253,7 +252,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="337" y="21" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -335,5 +333,20 @@
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
