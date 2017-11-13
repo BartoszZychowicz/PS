@@ -1,0 +1,5 @@
+D:\Zychowicz\PS\PSieciowe\helloWorld\helloWorld\bin\Debug\helloWorld.exe
+D:\Zychowicz\PS\PSieciowe\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
+D:\Zychowicz\PS\PSieciowe\helloWorld\helloWorld\obj\Debug\helloWorld.csprojResolveAssemblyReference.cache
+D:\Zychowicz\PS\PSieciowe\helloWorld\helloWorld\obj\Debug\helloWorld.exe
+D:\Zychowicz\PS\PSieciowe\helloWorld\helloWorld\obj\Debug\helloWorld.pdb
