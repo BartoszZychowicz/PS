@@ -1,5 +1,0 @@
-D:\Zychowicz\PS\PSieciowe\lab1\lab1\bin\Debug\lab1.exe
-D:\Zychowicz\PS\PSieciowe\lab1\lab1\bin\Debug\lab1.pdb
-D:\Zychowicz\PS\PSieciowe\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
-D:\Zychowicz\PS\PSieciowe\lab1\lab1\obj\Debug\lab1.exe
-D:\Zychowicz\PS\PSieciowe\lab1\lab1\obj\Debug\lab1.pdb
